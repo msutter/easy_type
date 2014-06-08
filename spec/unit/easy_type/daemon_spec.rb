@@ -1,9 +1,9 @@
-require 'spec_helper'
-require 'easy_type/daemon'
+#require 'spec_helper'
+#require 'easy_type/daemon'
 
-describe EasyType::Daemon do
+#describe EasyType::Daemon do
 
-  it "needs some tests"
+#  it "needs some tests"
 
-end
+#end
 
